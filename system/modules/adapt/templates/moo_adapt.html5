@@ -2,7 +2,6 @@
 // Edit to suit your needs.
 var ADAPT_CONFIG = {
   // Where is your CSS?
-  // path: '/system/modules/adapt/html/',
   path: '<?php echo TL_ROOT; ?>system/modules/adapt/html/',
 
   // false = Only run once, when page first loads.
