@@ -1,4 +1,6 @@
-ck_adapt integrates adapt.js (see https://github.com/nathansmith/adapt)into Contao cms as a module.
+ck_adapt integrates adapt.js (see https://github.com/nathansmith/adapt ) into Contao cms as a module.
+
+In fact, Contao will generate an 960.gs-based output on the fly
 
 =====
 
