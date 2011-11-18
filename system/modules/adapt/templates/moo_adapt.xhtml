@@ -1,4 +1,5 @@
 <?php define('MODULES_FILEROOT', 'system/modules/'); ?>
+<script src="<?php echo TL_PLUGINS_URL; ?>plugins/adapt/wrapextender.js"></script>
 <script>
 // Edit to suit your needs.
 var ADAPT_CONFIG = {
